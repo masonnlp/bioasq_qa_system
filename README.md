@@ -39,13 +39,15 @@
 
 2. Click the **Open in Colab** button
 
-3. In Colab, go to **Runtime** -> **Run all**
+3. Click **Runtime** -> **Change runtime type**: make sure **GPU** is chosen for hardware accelerator
 
-4. There may be a warning that "This notebook was not authorized by Google" since the notebook comes from GitHub and wants to access files from Google Drive: click **RUN ANYWAY**
+4. In Colab, go to **Runtime** -> **Run all**
 
-5. In the first cell make sure you click the URL and choose the Google account that has the files you uploaded from the Prerequisite section
+5. There may be a warning that "This notebook was not authorized by Google" since the notebook comes from GitHub and wants to access files from Google Drive: click **RUN ANYWAY**
 
-6. Sometimes the square, copy button will cause problems so it is recommended to copy the code manually and paste it back into Colab
+6. In the first cell make sure you click the URL and choose the Google account that has the files you uploaded from the Prerequisite section
+
+7. Sometimes the square, copy button will cause problems so it is recommended to copy the code manually and paste it back into Colab
 
 
 ## Where results are stored
