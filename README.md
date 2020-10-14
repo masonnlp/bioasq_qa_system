@@ -19,19 +19,15 @@
 
    https://drive.google.com/file/d/1ZqAqo6Mg571UBB0aHPGuFdG4c2Lh_oPd/view?usp=sharing
    
-7. Download **qp_demo.xml** from the following link:
-
-   https://drive.google.com/file/d/1O_PMC51F5GvuC1R6r9QUFxQFkqJqQAqE/view?usp=sharing
-   
-8. Upload **input.csv** & **qp_demo.xml** files into your **Colab Notebooks/BioASQ** Google Drive folder
+7. Upload **input.csv** into your **Colab Notebooks/BioASQ** Google Drive folder
 
 
 ### Information Retrieval
-1. Download the PubMed dataset from the following link (**Warning** the folder is over 8 GB)
+1. Download the indexed PubMed dataset from the following link (**Warning** the folder is 8 GB)
 
-   https://drive.google.com/drive/folders/1VmA9b4uyLMpH4v0wlADL2l9N9Wa5WzX3?usp=sharing
+   https://drive.google.com/drive/folders/1RuG3fSLb6UHheNzGe3G1_qRogYdx8bsX?usp=sharing
 
-2. Upload the **data2** folder into your **Colab Notebooks/BioASQ** Google Drive folder
+2. Upload the **indexdir** folder into your **Colab Notebooks/BioASQ** Google Drive folder
 
 
 ## How to use
@@ -52,7 +48,3 @@
 
 ## Where results are stored
 The results are stored in the **qp_demo.xml** file in your **Colab Notebooks/BioASQ** Google Drive folder
-
-
-## TODOs
-1. Figure out why system doesn't work when using an already indexed folder from Google Drive
