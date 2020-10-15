@@ -23,11 +23,13 @@
 
 
 ### Information Retrieval
-1. Download the indexed PubMed dataset from the following link (**Warning** the folder is 8 GB)
+1. Download the download all 3 files from the following link which contain the indexed PubMed dataset (**Note** one of the files is 8 GB, which may take time to download)
 
    https://drive.google.com/drive/folders/1RuG3fSLb6UHheNzGe3G1_qRogYdx8bsX?usp=sharing
 
-2. Upload the **indexdir** folder into your **Colab Notebooks/BioASQ** Google Drive folder
+2. Create an **indexdir** folder into your **Colab Notebooks/BioASQ** Google Drive folder
+
+3. Upload all 3 files into the **indexdir** folder 
 
 
 ## How to use
@@ -45,6 +47,8 @@
 
 7. Sometimes the square, copy button will cause problems so it is recommended to copy the code manually and paste it back into Colab
 
+8. **NOTE**: the files that were placed into your Google Drive will be copied to Colab's local content directory which may take about 10 minutes
+
 
 ## Where results are stored
-The results are stored in the **qp_demo.xml** file in your **Colab Notebooks/BioASQ** Google Drive folder
+The results are stored in the **bioasq_qa.xml** file in your **Colab Notebooks/BioASQ** Google Drive folder
